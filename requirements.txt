@@ -1,0 +1,5 @@
+kivy
+kivymd
+pyttsx3
+SpeechRecognition
+pyaudio

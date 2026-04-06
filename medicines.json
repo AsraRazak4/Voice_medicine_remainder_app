@@ -1,0 +1,100 @@
+{
+  "Pain and Fever": [
+    {
+      "generic_name": "Paracetamol",
+      "brand_names": ["Panadol", "Calpol", "Tylenol"],
+      "notes": "Used for mild pain and fever. Best taken after food to protect your stomach. Take it every 4 to 6 hours if needed. PRECAUTION: Do not take more than 8 tablets in 24 hours."
+    },
+    {
+      "generic_name": "Ibuprofen",
+      "brand_names": ["Advil", "Brufen", "Nurofen"],
+      "notes": "Used for pain and swelling. It is VERY important to take this AFTER a meal. PRECAUTION: Avoid if you have asthma or stomach ulcers."
+    },
+    {
+      "generic_name": "Diclofenac",
+      "brand_names": ["Voltaren", "Voveran", "Diclo"],
+      "notes": "A strong medicine for joint or muscle pain. Best taken after a full meal. Take 1 tablet twice a day. PRECAUTION: Can cause dizziness. Do not take on an empty stomach."
+    }
+  ],
+  "Stomach and Digestion": [
+    {
+      "generic_name": "Loperamide",
+      "brand_names": ["Andial", "Imodium", "Lopex"],
+      "notes": "Used to stop loose motions or diarrhea. Take one capsule after each loose motion. Drink plenty of water or ORS to stay hydrated. PRECAUTION: Stop taking it as soon as your motions are normal."
+    },
+    {
+      "generic_name": "Ranitidine",
+      "brand_names": ["Zantac", "Rantac"],
+      "notes": "Used for stomach gas and acidity. Best taken 30 minutes before a meal. PRECAUTION: If you are taking antacid liquids, wait 2 hours before taking this tablet."
+    }
+  ],
+  "Acidity": [
+    {
+      "generic_name": "Omeprazole",
+      "brand_names": ["Omez", "Prilosec"],
+      "notes": "Used for heartburn and acidity. It works best if taken on an EMPTY stomach, usually 30 minutes before breakfast. PRECAUTION: Swallow the capsule whole; do not crush it."
+    },
+    {
+      "generic_name": "Pantoprazole",
+      "brand_names": ["Pan", "Pantocid"],
+      "notes": "Helps reduce stomach acid. Best taken in the morning before eating anything. PRECAUTION: If you miss a dose, take it as soon as you remember."
+    }
+  ],
+  "Allergy and Cold": [
+    {
+      "generic_name": "Levocetirizine",
+      "brand_names": ["Cyzine", "Levoset", "Vozet"],
+      "notes": "Used for runny nose and sneezing. Best taken at BEDTIME because it can make you feel very sleepy. PRECAUTION: Do not drive after taking this."
+    },
+    {
+      "generic_name": "Cetirizine",
+      "brand_names": ["Zyrtec", "Okacet"],
+      "notes": "Helps with allergy symptoms. Can be taken with or without food. PRECAUTION: Avoid drinking alcohol while taking this as it increases sleepiness."
+    }
+  ],
+  "Muscle and Joint": [
+    {
+      "generic_name": "Chlorzoxazone",
+      "brand_names": ["Myospaz", "Mobizox"],
+      "notes": "Used to relax tight muscles. It is VERY important to take this AFTER a meal. PRECAUTION: May cause mild drowsiness or dark-colored urine, which is normal."
+    }
+  ],
+  "Blood Pressure and Heart": [
+    {
+      "generic_name": "Amlodipine",
+      "brand_names": ["Amlovas", "Stamlo", "Norvasc"],
+      "notes": "Used to lower high blood pressure. Best taken at the same time every day. PRECAUTION: Do not stop taking this suddenly without talking to a doctor."
+    },
+    {
+      "generic_name": "Atenolol",
+      "brand_names": ["Tenormin", "Aten"],
+      "notes": "Helps the heart beat more slowly and with less force. Best taken before a meal or at bedtime. PRECAUTION: May make you feel sleepy or dizzy at first."
+    }
+  ],
+  "Diabetes": [
+    {
+      "generic_name": "Metformin",
+      "brand_names": ["Glycomet", "Glucophage"],
+      "notes": "Helps control blood sugar levels. It is best to take this WITH or AFTER a meal to reduce stomach upset. PRECAUTION: Avoid drinking alcohol while on this medicine."
+    }
+  ],
+  "Infections": [
+    {
+      "generic_name": "Amoxicillin",
+      "brand_names": ["Augmentin", "Mox"],
+      "notes": "An antibiotic used to kill bacteria. Take it at the start of a meal. PRECAUTION: You MUST finish the whole course, even if you feel better."
+    },
+    {
+      "generic_name": "Azithromycin",
+      "brand_names": ["Azithral", "Zithromax"],
+      "notes": "Used for throat or chest infections. Best taken 1 hour before or 2 hours after food. PRECAUTION: Do not take antacids at the same time."
+    }
+  ],
+  "Vitamins": [
+    {
+      "generic_name": "B-Complex",
+      "brand_names": ["Neurobion", "Becosules"],
+      "notes": "Helps with energy and nerve health. Best taken in the morning after breakfast. PRECAUTION: It may turn your urine bright yellow, which is normal."
+    }
+  ]
+}
